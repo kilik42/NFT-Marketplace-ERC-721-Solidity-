@@ -10,7 +10,7 @@
 - [React routers](https://v5.reactrouter.com/) (Navigational components)
 
 ## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/), should work with any node version below 16.5.0
+- Install [NodeJS](https://nodejs.org/en/), should work with any node version between 16.14.0 and 17.0.1
 - Install [Hardhat](https://hardhat.org/)
 - Install [Metamask](https://metamask.io/)
 
