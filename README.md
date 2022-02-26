@@ -12,6 +12,7 @@
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/), should work with any node version below 16.5.0
 - Install [Hardhat](https://hardhat.org/)
+- Install [Metamask](https://metamask.io/)
 
 ## Setting Up
 ### 1. Clone/Download the Repository
